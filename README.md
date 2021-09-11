@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eunsu Kim @as667100
 - 👀 I’m interested in python, JS, C, C++
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning JS (hopefully I can make my profile look fancier)
 - 📫 you can reach me through email: eunsu0379@gmail.com
 
 <!---
